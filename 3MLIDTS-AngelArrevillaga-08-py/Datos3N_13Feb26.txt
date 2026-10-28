@@ -1,0 +1,35 @@
+Nombre: waserdtfyg
+Apellidos: ewzrtfygui
+Edad: 23
+Telefono: 1234567890
+Estatura: 1.5
+Genero: Masculino
+
+Nombre: sas
+Apellidos: das
+Edad: 12
+Telefono: 1234567890
+Estatura: 1.5
+Genero: Masculino
+
+Nombre: waesdrtfygu
+Apellidos: wedrftyg
+Edad: 19
+Telefono: 1234567890
+Estatura: 1.73
+Genero: Masculino
+
+Nombre: dad
+Apellidos: mom
+Edad: 12
+Telefono: 1234567890
+Estatura: 1.90
+Genero: Masculino
+
+Nombre: carmen
+Apellidos: arrevillaga
+Edad: 13
+Telefono: 9618989890
+Estatura: 1.60
+Genero: Femenino
+
